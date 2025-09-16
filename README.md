@@ -56,24 +56,24 @@ The dataset contains the following key variables:
 
 **Project Workflow**
 
-**1.Data Collection and Preprocessing**
+**1. Data Collection and Preprocessing**
 
 - Handle missing values, encode categorical features, and balance classes using SMOTE.
 
-**2.Model Training and Evaluation**
+**2. Model Training and Evaluation**
 
 - Train Logistic Regression, Decision Tree, and Random Forest models.
 - Evaluate using accuracy, classification reports, and confusion matrices.
 
-**3.Feature Analysis**
+**3. Feature Analysis**
 
 - Calculate feature importance to identify key contributors to sleep disorders.
 
-**4.Interactive Prediction**
+**4. Interactive Prediction**
 
 - Accept manual inputs for real-time disorder prediction.
 
-**5.Visualization**
+**5. Visualization**
 
 - Plot confusion matrices, accuracy comparison charts, and feature importance.
 
